@@ -27,8 +27,8 @@ Submit a pull request
 This project is licensed under the MIT License.
 
 <h2>Acknowledgements</h2>
-Prazol Bista
-Bibek Neupane
-Laxman Neupane
+<li>Prazol Bista</li>
+<li>Bibek Neupane</li>
+<li>Laxman Neupane</li>
 
 
