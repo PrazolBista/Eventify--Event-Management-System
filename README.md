@@ -1,4 +1,4 @@
-<h1>EVENTIFY
+<h1>EVENTIFY</h1>
 Eventify is an event management system that allows users to create, manage, and share events. This project was developed as a final project for a college course.
 
 <h2>Features
